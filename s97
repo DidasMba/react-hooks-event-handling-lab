@@ -1,0 +1,285 @@
+[33mcommit 5124d38112de150cea8175d14890979abdc536e5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 13 11:54:39 2023 -0400
+
+    AUTO: update react-scripts version
+
+[33mcommit dde193c10451401f4bed7178be13cf41cfccfb5d[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Thu Jan 5 10:30:28 2023 -0800
+
+    add babel config
+
+[33mcommit 865e2fc7e702818016cb0051722898b37be268d7[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Thu Jan 5 09:14:00 2023 -0800
+
+    update workflow
+
+[33mcommit cc3c487030cf972553f4a9a682df11355bf3237e[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Jan 3 14:02:53 2023 -0500
+
+    update canvas file
+
+[33mcommit bdec6ec9c14fe6e67291122ce77e350051716957[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Jan 3 14:02:51 2023 -0500
+
+    remove canvas file
+
+[33mcommit 0ec5eeb01afa9b51b1f5039fe1031522017d75cd[m
+Author: gehrig <gehrigbarnes@gmail.com>
+Date:   Tue Jul 19 10:19:19 2022 -0500
+
+    reverting
+
+[33mcommit be2965de632da48cfc52aafdd82e4f45282d1bbc[m
+Author: gehrig <gehrigbarnes@gmail.com>
+Date:   Tue Jul 19 08:32:55 2022 -0500
+
+    done
+
+[33mcommit bb1259e47e9b700fa2cd1dd42d0a0569a11a5d0f[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Aug 16 11:29:07 2021 -0400
+
+    typo fix
+
+[33mcommit 72af4d0986b29da12c2a6f9e363302fb07ec97ab[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Wed Aug 4 06:30:39 2021 -0400
+
+    Fixed JSX code blocks
+
+[33mcommit bf464ce43b6541297739ee8fd2c149a403fc3378[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Wed May 26 09:27:42 2021 -0400
+
+    AUTO: Change to @learn-co-curriculum/jest-learn-reporter scoped package
+
+[33mcommit 078d8bb70458205506d5da28c9a09deadc7cbc03[m
+Author: John Souza <souzajohnlee@gmail.com>
+Date:   Mon May 24 12:17:05 2021 -0700
+
+    Revert commit
+
+[33mcommit c3aabc194fb6a7d95803780362d9af54800fc601[m
+Author: John Souza <souzajohnlee@gmail.com>
+Date:   Mon May 24 12:07:56 2021 -0700
+
+    made some changes
+
+[33mcommit c83aa3a673b4992e7aaf0041017098a5ebdd1856[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Sat May 22 09:28:42 2021 -0400
+
+    Minor edits
+
+[33mcommit fecb085b528b373277ee17d533671ee0e37ec171[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Tue Apr 13 07:16:39 2021 -0400
+
+    Updated Canvas workflow
+
+[33mcommit 008f746190434b0e3e59b71fa5184302f36ca261[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Tue Apr 13 07:03:56 2021 -0400
+
+    Added Canvas workflow
+
+[33mcommit cc41e5f789d257d5e2e0f262716ee3a35cffc20b[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Sun Dec 27 09:49:27 2020 -0500
+
+    Use react-testing-library
+
+[33mcommit b6055fe4a363c325404096a237d845ae67e77e62[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Sat Dec 12 09:11:12 2020 -0500
+
+    Rename lab
+
+[33mcommit c25f84d3e6b1c0e3c4767d1fc4625792f146b64f[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Mon Dec 7 10:54:30 2020 -0500
+
+    Rename lab
+
+[33mcommit f552cb3252d10f4731b14422dbe637c959456e55[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Wed Dec 2 12:47:43 2020 -0500
+
+    Fixed render
+
+[33mcommit 40f58af13d71e1847b4566c665438d0d7cbc038f[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Wed Dec 2 12:46:07 2020 -0500
+
+    Updated tests
+
+[33mcommit 194df1f84e30d06adaf2947566821da72b76e09f[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Wed Dec 2 12:34:42 2020 -0500
+
+    Updated package, tests, and readme
+
+[33mcommit 96b7ed9a84991add0bc892ae742ce33d2f91d853[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Fri May 8 14:40:14 2020 -0400
+
+    --timeout 5000
+
+[33mcommit 305bf06e186fb38c7b5dbd704d2e0f6338a0dffd[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Tue Oct 15 18:58:54 2019 -0400
+
+    adds note about starting out
+
+[33mcommit 13e385a8acce5133f8e06c0836293db90bb1defd[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Tue Oct 15 18:45:32 2019 -0400
+
+    move babel presets, updates npm dependencies
+
+[33mcommit 48614b13cc5b72399328cabbc9fc661ca5889a5e[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Tue Oct 15 18:44:40 2019 -0400
+
+    removes deprecated compiler
+
+[33mcommit a32b851569d453f83e4d76c0408584f9d485497e[m
+Author: maxwell <github email address>
+Date:   Wed Jul 25 12:41:32 2018 -0400
+
+    removed gif
+
+[33mcommit b084e0cadc4610dc80ad6f0287a4e229840b0814[m
+Author: maxwell <github email address>
+Date:   Thu Oct 12 11:35:21 2017 -0400
+
+    added babel stage-1
+
+[33mcommit af522d14d63bcf63343853c4920d5458a2e000f7[m
+Author: maxwell <github email address>
+Date:   Thu Oct 12 11:21:40 2017 -0400
+
+    updated babel, removed stage-0, replaced with env, updated to react 16, new enzyme environment
+
+[33mcommit 9e88c8432843adee7823ae955ca29ea12d2f529c[m
+Merge: d7273e5 7439117
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Thu Jun 22 11:32:20 2017 -0400
+
+    Merge pull request #7 from kjleitz/master
+    
+    webpack dependency: ^1.14.0 -> ^2.2.0
+
+[33mcommit 7439117612c0eecca4f8714bfc88aa374cd96399[m
+Author: Keegan Leitz <kjleitz@gmail.com>
+Date:   Tue Jun 20 16:34:05 2017 -0400
+
+    webpack dependency: ^1.14.0 -> ^2.2.0
+    
+    Webpack upgrade necessary to avoid long `TypeError: Cannot read property 'request' of undefined` error when doing `npm start`.
+    
+    @Lukeghenco
+
+[33mcommit d7273e580ba5be0ab60c60f99695a9809322ad6a[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Wed Jun 7 14:35:49 2017 -0400
+
+    Remove root index.html
+
+[33mcommit 993b22f983f92957479cc72e21a2c79383de582a[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Mon Jun 5 13:25:41 2017 -0400
+
+    Update tests to with Chai and => functions
+
+[33mcommit 8d3406ee1c6fc219d2d593792cf745f7bfcba82b[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Mon Jun 5 13:03:51 2017 -0400
+
+    Update starter components code
+
+[33mcommit d74f5f8a85310643fb03361f1b466208e35bbee5[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Mon Jun 5 12:38:09 2017 -0400
+
+    Update starter index.js code
+
+[33mcommit c0571764cf54a17a5d33454cd2b163e9940b7770[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Mon Jun 5 12:37:51 2017 -0400
+
+    Update test settings
+
+[33mcommit 8b513c3afcfa03d2aa81c0be43d011ccf0576245[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Mon Jun 5 12:36:54 2017 -0400
+
+    Add public folder for build process
+
+[33mcommit e3a6567157ea36274c3e25e1d5a723bb09ffd6d4[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Mon Jun 5 12:36:33 2017 -0400
+
+    Move JS code into src folder
+
+[33mcommit c0cfe7a7be34ff334f34c587abdf3b476d0ab9bf[m
+Author: Luke Ghenco <lukeghenco@gmail.com>
+Date:   Mon Jun 5 12:36:19 2017 -0400
+
+    Update starter code to use Webpack config
+
+[33mcommit 99ffc9d3411e4830bfae42e36410378129b90621[m
+Author: Niky Morgan <nicole.morgan@gmail.com>
+Date:   Tue Apr 4 12:29:06 2017 -0400
+
+    Update import/export syntax to ES6
+
+[33mcommit 712d8ebd10136b42b2c297628d42d085b9d250a4[m
+Merge: f27d526 807c6ed
+Author: Avidor Turkewitz <avidor@flatironschool.com>
+Date:   Sat Oct 15 11:15:57 2016 -0400
+
+    Merge pull request #4 from cernanb/master
+    
+    added sinon to package.json
+
+[33mcommit 807c6ed853e6ae31559d8f4c06445978676bc181[m
+Author: cernanb <cernanb@gmail.com>
+Date:   Thu Sep 22 23:28:08 2016 -0700
+
+    added sinon to package.json
+
+[33mcommit f27d5267d3b8ebee30120d8e42d2b8128a9f3c9f[m
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Tue Sep 20 18:10:33 2016 -0400
+
+    formatiing
+
+[33mcommit 6839c7e075d4e0ac096b78b9c1233dbfc7fe4891[m
+Author: thomastuts <thomas@thomastuts.com>
+Date:   Fri Sep 9 12:23:56 2016 +0200
+
+    Remove browser test bundle
+
+[33mcommit f9ac155ae7e1c59a6b16aede4a2d569fbdf1c21c[m
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Thu Sep 8 17:58:05 2016 -0400
+
+    overview
+
+[33mcommit 0e536b773642bc66640589990fad0ff937cb19d7[m
+Merge: 1441097 4fb9585
+Author: Thomas Tuts <thomas@thomastuts.com>
+Date:   Wed Sep 7 12:17:06 2016 +0200
+
+    Merge pull request #1 from learn-co-curriculum/wip-master
+    
+    Add lab instructions and tests
+
+[33mcommit 4fb9585e7e5173ea3633c7090270b52ea698ac20[m
+Autho
